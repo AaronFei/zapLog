@@ -1,3 +1,3 @@
-module github.com/AaronFei/zaplog
+module github.com/AaronFei/zapLog
 
 go 1.19
